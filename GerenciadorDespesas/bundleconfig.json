@@ -1,0 +1,42 @@
+[
+  {
+    "outputFileName": "wwwroot/js/GraficoGastoMes.min.js",
+    "inputFiles": [
+      "wwwroot/js/GraficoGastoMes.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/GraficoGastosTotais.min.js",
+    "inputFiles": [
+      "wwwroot/js/GraficoGastosTotais.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/GraficoTotalMes.min.js",
+    "inputFiles": [
+      "wwwroot/js/GraficoTotalMes.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/MetodosGerais.min.js",
+    "inputFiles": [
+      "wwwroot/js/MetodosGerais.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/bundle.js",
+    "inputFiles": [
+      "wwwroot/js/site.js",
+      "wwwroot/js/GraficoGastoMes.js",
+      "wwwroot/js/GraficoGastosTotais.js",
+      "wwwroot/js/GraficoTotalMes.js",
+      "wwwroot/js/MetodosGerais.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/site.min.css",
+    "inputFiles": [
+      "wwwroot/css/site.css"
+    ]
+  }
+]
